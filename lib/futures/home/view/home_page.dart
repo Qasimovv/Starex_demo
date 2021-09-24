@@ -4,6 +4,7 @@ import 'package:starex_demo/futures/home/widgets/buttons/rectangle_button.dart';
 import 'package:starex_demo/futures/home/widgets/cards/card.dart';
 //..w
 //..w
+//..w
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
