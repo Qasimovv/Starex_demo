@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:starex_demo/futures/home/widgets/buttons/add_button.dart';
 import 'package:starex_demo/futures/home/widgets/buttons/rectangle_button.dart';
 import 'package:starex_demo/futures/home/widgets/cards/card.dart';
+//..
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
