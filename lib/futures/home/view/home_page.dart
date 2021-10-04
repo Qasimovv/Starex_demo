@@ -5,6 +5,7 @@ import 'package:starex_demo/futures/home/widgets/cards/card.dart';
 //..w
 //..w
 //..w
+//..o
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -103,7 +104,6 @@ class Body extends StatelessWidget {
                     backgroundColor: Colors.orange.shade400,
                     title: 'Beyan Et',
                   ),
-                 
                 ],
               ),
             ),
@@ -325,4 +325,3 @@ class Body extends StatelessWidget {
     );
   }
 }
-
